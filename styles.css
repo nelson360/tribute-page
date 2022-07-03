@@ -4,8 +4,8 @@ html{
 head{
     text-decoration: none;
 }
-body{
-    background-color: #00FA9A;
+.body{
+    background-color: #09110e;
     margin: 20%;
     text-decoration: none;
 }
@@ -40,4 +40,8 @@ h1.title-APJ{
 #tribute-link{
     text-decoration: none;
     color: black;
+}
+.paragraphabout{
+align-items: flex-start;
+text-align: center;
 }
