@@ -45,3 +45,12 @@ h1.title-APJ{
 align-items: flex-start;
 text-align: center;
 }
+.footer{
+  position:fixed;
+  bottom: 0;
+  width: auto;
+
+}
+p{
+    color: beige;
+}
