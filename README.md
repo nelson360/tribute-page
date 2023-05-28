@@ -1,3 +1,3 @@
-**prerequisite**
-**about**
-learn to build a simple web using html css and js
+
+**<b>ABOUT</b>** <br>
+learn to build a simple web of the great howard hughes using html css and js
